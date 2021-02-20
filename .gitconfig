@@ -1,0 +1,7 @@
+[user]
+	name = Jack Kershaw
+	email = jackkersh2000@gmail.com
+[credential]
+	helper = osxkeychain
+[color]
+	ui = auto
